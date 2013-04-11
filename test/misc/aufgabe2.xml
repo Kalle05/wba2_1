@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Gruppe>
+	<GruppenLeiter>
+		<Vorname>Christian</Vorname>
+		<Nachname>Ries</Nachname>
+		<Email>troll@lol.com</Email>
+		<Geburtsdatum>01.01.1900</Geburtsdatum>
+		<Erfahrung>N/A</Erfahrung>
+		<Schlagzeug>true</Schlagzeug>
+		<Anmerkungen>N/A</Anmerkungen>
+	</GruppenLeiter>
+	<Personen>
+		<Person id="1337">
+			<Vorname>Bruno</Vorname>
+			<Nachname>Gonzaga</Nachname>
+			<Email>trollo@lol.com</Email>
+			<Geburtsdatum>01.02.1990</Geburtsdatum>
+			<Erfahrung>Alles OK</Erfahrung>
+			<Schlagzeug>false</Schlagzeug>
+		</Person>
+	</Personen>
+</Gruppe>
