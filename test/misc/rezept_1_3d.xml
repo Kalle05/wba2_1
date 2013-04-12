@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rezepte>
+    <rezept>
+        <titel>Mini - Hackbraten mit Schafskäseherz aus dem Ofen</titel>
+        <subtitel>einfach und schnell im Backofen zubereitet!</subtitel>
+        <fotos>
+            <foto>
+                <benutzer>Braeter</benutzer>
+                <bildadresse>http://www.chefkoch.de/hackbraten.jpg</bildadresse>
+            </foto>
+            <foto>
+                <benutzer>Braeter</benutzer>
+                <bildadresse>http://www.chefkoch.de/hackbraten2.jpg</bildadresse>
+            </foto>
+            <foto>
+                <benutzer>Braeter</benutzer>
+                <bildadresse>http://www.chefkoch.de/hackbraten3.jpg</bildadresse>
+            </foto>
+        </fotos>
+        <portionen>4</portionen>
+        <zutaten>
+            <zutat>
+                <zutatenart>Hackfleisch, vom Rind</zutatenart>
+                <menge>500</menge>
+                <einheit>g</einheit>
+            </zutat>
+            <zutat>
+                <zutatenart>Brötchen, vom Vortag</zutatenart>
+                <menge>1</menge>
+                <einheit>stk.</einheit>
+            </zutat>
+            <zutat>
+                <zutatenart>Ei(er)</zutatenart>
+                <menge>2</menge>
+                <einheit>stk.</einheit>
+            </zutat>
+            <zutat>
+                <zutatenart>Zwiebel(n)</zutatenart>
+                <menge>1</menge>
+                <einheit>stk.</einheit>
+            </zutat>
+            <zutat>
+                <zutatenart>Knoblauchzehe(n)</zutatenart>
+                <menge>1</menge>
+                <einheit>stk.</einheit>
+            </zutat>
+            <zutat>
+                <zutatenart>Salz</zutatenart>
+                <menge>1</menge>
+                <einheit>TL</einheit>
+            </zutat>
+            <zutat>
+                <zutatenart>Pfeffer, Schwarzer aus der Mühle</zutatenart>
+                <einheit></einheit>
+            </zutat>
+            <zutat>
+                <zutatenart>Paprikapulver</zutatenart>
+                <einheit>TL</einheit>
+            </zutat>
+            <zutat>
+                <zutatenart>Schafskäse</zutatenart>
+                <menge>200</menge>
+                <einheit>g</einheit>
+            </zutat>
+            <zutat>
+                <zutatenart>Butter</zutatenart>
+                <menge>1</menge>
+                <einheit>El</einheit>
+            </zutat>
+            <zutat>
+                <zutatenart>Olivenöl</zutatenart>
+                <menge>1</menge>
+                <einheit>El</einheit>
+            </zutat>
+        </zutaten>
+        <arbeitszeit einheit="min">30</arbeitszeit>
+        <schwierigkeitsgrad>normal</schwierigkeitsgrad>
+        <brennwert einheit="">0</brennwert>
+        <zubereitung>Das Brötchen in lauwarmem Wasser einweichen, Zwiebel und Knoblauch ganz fein schneiden oder hacken.[...]</zubereitung>
+        <kommentare>
+            <kommentar>
+                <verfasser>Koch</verfasser>
+                <avatar>http://www.ava.com/ava1.jpg</avatar>
+                <erstellungsdatum>2012-05-10T16:05:00+01:00</erstellungsdatum>
+                <nachricht>Leckerst</nachricht>
+            </kommentar>
+            <kommentar>
+                <verfasser>Koch2</verfasser>
+                <avatar>http://www.ava.com/ava2.jpg</avatar>
+                <erstellungsdatum>2012-09-10T17:00:57.257+01:00</erstellungsdatum>
+                <nachricht>Lecker!</nachricht>
+            </kommentar>
+            <kommentar>
+                <verfasser>tester</verfasser>
+                <avatar>http://www.url.com/tester/avatar.jpg</avatar>
+                <erstellungsdatum>2013-04-12T20:42:47.763+02:00</erstellungsdatum>
+                <nachricht>getestet</nachricht>
+            </kommentar>
+        </kommentare>
+    </rezept>
+    <rezept>
+        <titel>Selbst gemachter Vanillezucker</titel>
+        <subtitel>preiswert und einfach, nicht künstlich</subtitel>
+        <fotos>
+            <foto>
+                <benutzer>Vannili</benutzer>
+                <bildadresse>http://Chefkoch.de/bild.jpg</bildadresse>
+            </foto>
+        </fotos>
+        <portionen>1</portionen>
+        <zutaten>
+            <zutat>
+                <zutatenart>Vanilleschote(n), ausgeschabt</zutatenart>
+                <menge>2</menge>
+                <einheit>stk.</einheit>
+            </zutat>
+        </zutaten>
+        <arbeitszeit einheit="min">5</arbeitszeit>
+        <schwierigkeitsgrad>leicht</schwierigkeitsgrad>
+        <brennwert einheit="">0</brennwert>
+        <zubereitung>Der Vanillezucker ist ganz einfach selbst zuzubereiten,da man hier die ausgeschabten,übriggebliebenen Vanilleschoten verwenden kann.[...]</zubereitung>
+        <kommentare>
+            <kommentar>
+                <verfasser>Koch</verfasser>
+                <avatar>http://www.ava.com/ava.jpg</avatar>
+                <erstellungsdatum>2013-04-09T12:27:03.181+01:00</erstellungsdatum>
+                <nachricht>Lecker</nachricht>
+            </kommentar>
+        </kommentare>
+    </rezept>
+</rezepte>

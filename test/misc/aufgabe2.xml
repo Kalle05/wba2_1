@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<Gruppe>
+    <GruppenLeiter>
+        <Vorname>vTest</Vorname>
+        <Nachname>nTest</Nachname>
+        <Email>vTest@provider.com</Email>
+        <Geburtsdatum>1988-01-01</Geburtsdatum>
+        <Erfahrung>Fortgeschritten</Erfahrung>
+        <Schlagzeug>vorhanden</Schlagzeug>
+        <Anmerkung></Anmerkung>
+    </GruppenLeiter>
+    <Personen>
+        <Person id="2">
+            <Vorname>vTestI</Vorname>
+            <Nachname>nTestI</Nachname>
+            <Email>vTestI@provider.com</Email>
+            <Geburtsdatum>1988-01-01</Geburtsdatum>
+            <Erfahrung>Anfaenger</Erfahrung>
+            <Schlagzeug>nicht vorhanden</Schlagzeug>
+            <Anmerkung></Anmerkung>
+        </Person>
+        <Person>
+            <Vorname>vTestII</Vorname>
+            <Nachname>nTestII</Nachname>
+            <Email>nTestII@provider.com</Email>
+            <Geburtsdatum>1988-01-01</Geburtsdatum>
+            <Erfahrung>Amateur</Erfahrung>
+            <Schlagzeug>vorhanden</Schlagzeug>
+            <Anmerkung></Anmerkung>
+        </Person>
+    </Personen>
+	<AGB>
+		<Checkbox setShape="5,5,100,30" setLabel=" Ich bin mit den Allgemeinen Geschäftsbedingungen einverstanden."/>
+	</AGB>
+</Gruppe>

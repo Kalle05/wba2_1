@@ -1,0 +1,45 @@
+{
+    gruppe:{
+        gruppenleiter:{
+            vorname:'vTest',
+            nachname:'nTest',
+            email:'vTest@provider.com',
+            geburtsdatum:'1988-01-01',
+            erfahrung:'Fortgeschritten',
+            schlagzeug:'vorhanden',
+            anmerkung:{
+            }
+        },
+        personen:{
+            person:[
+                {
+                    id:2,
+                    vorname:'vTestI',
+                    nachname:'nTestI',
+                    email:'vTestI@provider.com',
+                    geburtsdatum:'1988-01-01',
+                    erfahrung:'Anfaenger',
+                    schlagzeug:'nicht vorhanden',
+                    anmerkung:{
+                    }
+                },
+                {
+                    vorname:'vTestII',
+                    nachname:'nTestII',
+                    email:'nTestII@provider.com',
+                    geburtsdatum:'1988-01-01',
+                    erfahrung:'Amateur',
+                    schlagzeug:'vorhanden',
+                    anmerkung:{
+                    }
+                }
+            ]
+        },
+        agb:{
+            checkbox:{
+                setshape:'5,5,100,30',
+                setlabel:' Ich bin mit den Allgemeinen Geschäftsbedingungen einverstanden.'
+            }
+        }
+    }
+}
